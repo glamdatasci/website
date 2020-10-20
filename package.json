@@ -1,0 +1,24 @@
+{
+  "name": "chds-community",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jezcope/chds-community.git"
+  },
+  "author": "",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/jezcope/chds-community/issues"
+  },
+  "homepage": "https://github.com/jezcope/chds-community#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8.1.2",
+    "postcss-cli": "^8.1.0"
+  }
+}
