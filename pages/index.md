@@ -1,7 +1,8 @@
 ---
 date: 2020-10-21 09:15:01 UTC+01:00
 slug: index
-title: null
+title: Home
+hidetitle: true
 type: text
 ---
 
