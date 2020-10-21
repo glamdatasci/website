@@ -6,7 +6,6 @@ type: text
 ---
 
 <div class="jumbotron" markdown=1>
-
 # Welcome! {: .display-3 }
 
 We are **librarians, curators, archivists, cataloguers, researchers, software engineers, marketers, finance & HR professionals and others** working in the field of cultural heritage.
@@ -18,8 +17,9 @@ We help each other and others to **develop confidence, understanding and skills 
 <div class="text-center" markdown="1">
 [More information about the project](/project/){: .btn .btn-primary }
 </div>
-
 </div>
+
+------------------------------------------------------------------------------
 
 ## News
 
