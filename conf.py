@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Jez Cope"  # (translatable)
-BLOG_TITLE = "Cultural Heritage Data Science Community"  # (translatable)
+BLOG_TITLE = "Cultural Heritage Data Science Network"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://chds.netlify.app/"
@@ -1088,16 +1088,15 @@ PRETTY_URLS = True
 #       with the MarkdownExtension class and should not be added here.
 # Defaults are markdown.extensions.(fenced_code|codehilite|extra)
 # markdown.extensions.meta is required for Markdown metadata.
-MARKDOWN_EXTENSIONS = [
-    'markdown.extensions.fenced_code',
-    'markdown.extensions.codehilite',
-    'markdown.extensions.extra',
-    'markdown.extensions.admonition',
-]
+MARKDOWN_EXTENSIONS = 'extra md_in_html toc codehilite admonition'.split()
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {} (no config at all)
-# MARKDOWN_EXTENSION_CONFIGS = {}
+MARKDOWN_EXTENSION_CONFIGS = {
+    'toc': {
+        'title': "Table of Contents",
+    },
+}
 
 
 # Extra options to pass to the pandoc command.
