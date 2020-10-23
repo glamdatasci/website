@@ -139,6 +139,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/get-involved/", "Get involved"),
         ("/project/", "Project info"),
     ),
 }

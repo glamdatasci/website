@@ -21,8 +21,11 @@ We help each other and others to **develop confidence, understanding and skills 
 Sound interesting? **You're one of us too!**
 {: .lead .text-center }
 
+- - - - -
+
 <div class="text-center" markdown="1">
-[More information about the project](/project/){: .btn .btn-primary }
+[Ways to get involved](link://slug/get-involved){: .btn .btn-success }
+[More information about the project](link://slug/project){: .btn .btn-primary }
 </div>
 
 </div>
