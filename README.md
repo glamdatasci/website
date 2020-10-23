@@ -1,4 +1,4 @@
-This repository hosts the main website of the Cultural Heritage Data Science Network, which can be found at <https://cdhs.netlify.app/>.
+This repository hosts the main website of the Cultural Heritage Data Science Network, which can be found at <https://chds.netlify.app/>.
 
 # Community vision
 
