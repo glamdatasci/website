@@ -25,7 +25,7 @@ This project is in its early stages, but you're welcome to take a look around, o
 </div>
 
 [new issue]: https://github.com/jezcope/chds-community/issues/new/choose "GitHub new issue form"
-[GitHub page]: https://github.com/jezcope/chds-community/issues/new/choose "Community GitHub repository"
+[GitHub page]: https://github.com/jezcope/chds-community/ "Community GitHub repository"
 
 ## News
 
