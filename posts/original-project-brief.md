@@ -7,8 +7,8 @@ tags:
 - Planning
 ---
 
-!!! attention
-    This document was drafted before the global pandemic of 2020! Not only does it describe an early, and somewhat incomplete, draft of "The Plan", it takes no account of the wide-ranging changes to what's possible under pandemic conditions, particularly restrictions on travel and face-to-face meetings. I'm publishing it for reasons of openness, to show how planning has progressed.
+**This document was drafted before the global pandemic of 2020!** Not only does it describe an early, and somewhat incomplete, draft of "The Plan", it takes no account of the wide-ranging changes to what's possible under pandemic conditions, particularly restrictions on travel and face-to-face meetings. I'm publishing it for reasons of openness, to show how planning has progressed.
+{: .alert .alert-warning }
 
 [TOC]
 

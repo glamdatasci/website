@@ -154,7 +154,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "good-news"
+THEME = "litera"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.

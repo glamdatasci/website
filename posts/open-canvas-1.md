@@ -1,6 +1,7 @@
 ---
 title: Open Canvas
 date: 2020-10-22 16:55 UTC+01:00
+author: Jez
 ---
 
 This is a one-page overview of the project, based on the [Open Canvas template][] from [Mozilla's Open Leadership Training Series][].
