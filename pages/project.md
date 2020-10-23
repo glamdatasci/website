@@ -5,6 +5,11 @@ slug: project
 type: text
 ---
 
+[In the spirit of working openly][Working Openly], this area of the site contains documentation about the project to help current and potential contributors to understand the background and goals of the project.
+{: .alert .alert-primary }
+
+[Working Openly]: https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/ "Mozilla Open Leadership Training Series: Working Open"
+
 ## Planning documents
 
 ["Pre-COVID" one-page project brief](link://slug/original-project-brief)
