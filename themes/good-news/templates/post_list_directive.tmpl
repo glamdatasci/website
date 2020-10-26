@@ -1,0 +1,15 @@
+## -*- coding: utf-8 -*-
+<%block name="content">
+%if posts:
+<ul class="post-list list-group list-group-flush">
+    % for post in posts:
+        <li class="post-list-item list-group-item">
+        <a href="${post.permalink(lang)}">${post.title(lang)|h}</a>
+        <span class="badge badge-default badge-pill">
+            ${post.formatted_date("d MMM Y")|h}
+        </li>
+    % endfor
+</ul>
+%endif
+<!-- End post-list ${post_list_id} -->
+</%block>
