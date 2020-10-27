@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Jez Cope"  # (translatable)
+BLOG_AUTHOR = "CHDS Network Community"  # (translatable)
 BLOG_TITLE = "Cultural Heritage Data Science Network"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -944,7 +944,7 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date} the authors — {license}'
+CONTENT_FOOTER = 'Contents &copy; {date} {author} — {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
