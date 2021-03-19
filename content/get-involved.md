@@ -1,5 +1,9 @@
 ---
 title: How can I get involved?
+menu:
+  main:
+    name: Get involved!
+    weight: 10
 ---
 
 So you want see this network succeed, but you're not sure where to start? Here are some ways that you can contribute right away...

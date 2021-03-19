@@ -1,5 +1,9 @@
 ---
 title: Project information
+menu:
+  main:
+    name: Project
+    weight: 20
 ---
 
 [In the spirit of working openly][Working Openly], this area of the site contains documentation about the project to help current and potential contributors to understand the background and goals of the project.

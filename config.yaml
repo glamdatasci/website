@@ -15,18 +15,9 @@ params:
 
 menu:
   main:
-    - name: Blog
-      url: blog
-      weight: 5
-    - name: Get involved
-      url: get-involved
-      weight: 10
-    - name: Project
-      url: project
-      weight: 20
-    - name: Search
-      url: search/
-      weight: 80
+    - name: GitHub
+      url: "https://github.com/jezcope/glam-datasci"
+      weight: 100
 
 outputs:
   home:
