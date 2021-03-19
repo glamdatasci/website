@@ -12,9 +12,6 @@ type: text
 
 ## Planning documents
 
-["Pre-COVID" one-page project brief](link://slug/original-project-brief)
-: Now sadly rather overtaken by circumstances, but gives an idea of the original goals of the project.
-
 [Draft Open Canvas for the project](link://slug/open-canvas-1)
 : This is a one-page overview of the project, based on the [Open Canvas template][] from [Mozilla's Open Leadership Training Series][].
 
@@ -61,3 +58,8 @@ In January 2020 [Jez Cope was awarded a Software Sustainability Institute Fellow
 [video]: https://scitech.video/videos/watch/6e80095f-42cc-4fa3-9596-4cfe355440cc "SSI Fellowship application 2020"
 [fellowship]: https://erambler.co.uk/blog/ssi-fellowship/
 [British Library]: https://bl.uk/
+
+## Historical documents
+
+["Pre-COVID" one-page project brief](link://slug/original-project-brief)
+: Now sadly rather overtaken by circumstances, but gives an idea of the original goals of the project.
