@@ -15,18 +15,24 @@ params:
 
 menu:
   main:
-    - name: Archive
-      url: archives
+    - name: Blog
+      url: blog
       weight: 5
+    - name: Get involved
+      url: get-involved
+      weight: 10
+    - name: Project
+      url: project
+      weight: 20
     - name: Search
       url: search/
-      weight: 10
-    - name: Tags
-      url: tags/
-      weight: 10
-    - name: Categories
-      url: categories/
-      weight: 10
+      weight: 80
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 privacy:
     vimeo:
