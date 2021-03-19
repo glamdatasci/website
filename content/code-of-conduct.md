@@ -7,8 +7,8 @@ menu:
 
 _**NB.** This document is currently in a Draft state, pending discussion and
 approval by the wider community once it's up and running. Please provide any
-feedback on the [Code of Conduct GitHub issue][GH issue], or by email to one of
-the people listed below._
+feedback on the [Code of Conduct GitHub issue][GH issue], or by email to Jez
+Cope (j DOT cope AT erambler DOT co DOT uk)._
 
 [GH issue]: https://github.com/jezcope/glam-datasci/issues/3
 
@@ -84,14 +84,17 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behaviour, or have any other concerns,
-please report it by contacting the organisers:
+please report it by contacting the organisers, or one of the individuals listed
+below.
 _**TODO:** Set up shared organisers email address_
 
 To report an issue involving one of the organisers, please email a different
 organiser individually:
 
 - Jez Cope (j DOT cope AT erambler DOT co DOT uk)
-- _**TODO:** find additional volunteer organisers_
+- Rachael Ainsworth (r DOT ainsworth AT software DOT ac DOT uk)
+  - _Many thanks to Rachael for agreeing to act as an independent external
+    arbitrator until the network is up and running_
 
 All reports will be handled with discretion. In your report please include:
 
