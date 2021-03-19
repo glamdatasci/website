@@ -12,7 +12,7 @@ menu:
 
 ## Planning documents
 
-[Draft Open Canvas for the project](link://slug/open-canvas-1)
+[Draft Open Canvas for the project](/posts/open-canvas-1)
 : This is a one-page overview of the project, based on the [Open Canvas template][] from [Mozilla's Open Leadership Training Series][].
 
 [Open Canvas template]: https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/
@@ -59,5 +59,5 @@ In January 2020 [Jez Cope was awarded a Software Sustainability Institute Fellow
 
 ## Historical documents
 
-["Pre-COVID" one-page project brief](link://slug/original-project-brief)
+["Pre-COVID" one-page project brief](/posts/original-project-brief/)
 : Now sadly rather overtaken by circumstances, but gives an idea of the original goals of the project.
