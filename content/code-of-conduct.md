@@ -1,9 +1,16 @@
 ---
 title: "Code of Conduct"
 menu:
-    main:
-        weight: 50
+  main:
+    weight: 50
 ---
+
+_**NB.** This document is currently in a Draft state, pending discussion and
+approval by the wider community once it's up and running. Please provide any
+feedback on the [Code of Conduct GitHub issue][GH issue], or by email to one of
+the people listed below._
+
+[GH issue]: https://github.com/jezcope/glam-datasci/issues/3
 
 As a community we welcome everyone, and encourage a friendly and positive environment.
 
