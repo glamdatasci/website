@@ -3,3 +3,60 @@ languageCode: en-gb
 title: GLAM Data Science Network
 
 theme: PaperMod
+params:
+  description: "Data science for everyone!"
+  defaultTheme: light
+
+  homeInfoParams:
+    Title: "Welcome!"
+    Content: >
+      We are **librarians, curators, archivists, cataloguers, researchers, software engineers,
+      marketers, finance & HR professionals and others** working in **galleries, libraries,
+      archives and museums** (the GLAM sector).
+      We help each other and others to
+      **develop confidence, understanding and skills in statistics and data science**
+      to make the most of data,
+      improve decision making
+      and ensure data is used ethically in the Cultural Heritage sector.
+
+
+      Sound interesting? **You're one of us too!**
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/jezcope/glam-datasci"
+    - name: rss
+      url: "index.xml"
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: Categories
+      url: categories/
+      weight: 10
+
+privacy:
+    vimeo:
+        disabled: true
+        simple: true
+
+    twitter:
+        disabled: true
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: true
+        simple: true
+
+    youtube:
+        disabled: true
+        privacyEnhanced: true
