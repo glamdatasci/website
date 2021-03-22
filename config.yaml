@@ -11,14 +11,14 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/jezcope/glam-datasci"
+      url: "https://github.com/glamdatasci/website"
     - name: rss
       url: "index.xml"
 
 menu:
   main:
     - name: GitHub
-      url: "https://github.com/jezcope/glam-datasci"
+      url: "https://github.com/glamdatasci/website"
       weight: 100
 
 permalinks:

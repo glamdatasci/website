@@ -11,7 +11,7 @@ From [The Turing Way Guide for Project Design](https://the-turing-way.netlify.ap
 
 These two personas are an initial draft to get the ball rolling and suggest the type of people who might be interested in taking part in a GLAM Data Science network and why. They are **not intended to be exhaustive** and the plan is to collaboratively expand these initial two into a more full description of our community.
 
-If this sounds interesting to you, please get in touch! You can join our [chat room on gitter.im](https://gitter.im/glam-datasci/community), comment on [this GitHub issue ("Network member personas")](https://github.com/jezcope/glam-datasci/issues/4), or reach me on [Twitter (@jezcope)](https://twitter.com/jezcope), [Mastodon (@petrichor@scholar.social)](https://scholar.social/@petrichor) or [Matrix (@jez:petrichor.me)](https://matrix.to/#/@jez:petrichor.me).
+If this sounds interesting to you, please get in touch! You can join our [chat room on gitter.im](https://gitter.im/glam-datasci/community), comment on [this GitHub issue ("Network member personas")](https://github.com/glamdatasci/website/issues/4), or reach me on [Twitter (@jezcope)](https://twitter.com/jezcope), [Mastodon (@petrichor@scholar.social)](https://scholar.social/@petrichor) or [Matrix (@jez:petrichor.me)](https://matrix.to/#/@jez:petrichor.me).
 
 You can also now [sign up for our mailing list](https://tinyletter.com/glam-datasci) to get the latest news as the community gets up and running!
 

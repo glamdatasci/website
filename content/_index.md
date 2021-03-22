@@ -11,8 +11,8 @@ We help each other and others to **develop confidence, understanding and skills 
 
 Sound interesting? **You're one of us too!**
 
-[new issue]: https://github.com/jezcope/glam-datasci/issues/new/choose "GitHub new issue form"
-[GitHub page]: https://github.com/jezcope/glam-datasci/ "Community GitHub repository"
+[new issue]: https://github.com/glamdatasci/website/issues/new/choose "GitHub new issue form"
+[GitHub page]: https://github.com/glamdatasci/website/ "Community GitHub repository"
 
 - [Ways to get involved](/get-involved/)
 - [More information about the project](/project/)

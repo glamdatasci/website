@@ -10,7 +10,7 @@ approval by the wider community once it's up and running. Please provide any
 feedback on the [Code of Conduct GitHub issue][GH issue], or by email to Jez
 Cope (j DOT cope AT erambler DOT co DOT uk)._
 
-[GH issue]: https://github.com/jezcope/glam-datasci/issues/3
+[GH issue]: https://github.com/glamdatasci/website/issues/3
 
 As a community we welcome everyone, and encourage a friendly and positive environment.
 
