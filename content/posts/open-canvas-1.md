@@ -1,7 +1,7 @@
 ---
 title: Open Canvas
+author: Jez Cope
 date: 2020-10-22T16:55:00+01:00
-author: Jez
 ---
 
 This is a one-page overview of the project, based on the [Open Canvas template][] from [Mozilla's Open Leadership Training Series][].

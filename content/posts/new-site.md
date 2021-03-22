@@ -1,6 +1,6 @@
 ---
 title: New site up and running!
-author: Jez
+author: Jez Cope
 date: 2020-10-21T11:22:13+01:00
 ---
 

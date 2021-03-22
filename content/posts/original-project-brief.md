@@ -1,7 +1,7 @@
 ---
 title: Original (pre-COVID) project brief
+author: Jez Cope
 date: 2020-10-22T15:50:00+01:00
-author: Jez
 tags:
 - Planning
 - Project management
