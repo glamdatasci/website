@@ -119,6 +119,7 @@ purpose of protecting victims of abuse.
 ### Attribution & Acknowledgements
 
 This code of conduct is based on the [Open Life Science Code of Conduct][],
-which is based in turn on the Open Code of Conduct from the TODOGroup.
+which is based in turn on the [Open Code of Conduct from the TODOGroup][].
 
 [Open Life Science Code of Conduct]: https://openlifesci.org/code-of-conduct
+[Open Code of Conduct from the TODOGroup]: https://todogroup.github.io/opencodeofconduct/
