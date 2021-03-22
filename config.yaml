@@ -21,6 +21,9 @@ menu:
       url: "https://github.com/jezcope/glam-datasci"
       weight: 100
 
+permalinks:
+  posts: /:year/:month/:slug/
+
 outputs:
   home:
     - HTML
