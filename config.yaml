@@ -2,7 +2,9 @@ baseURL: https://glamdatasci.network/
 languageCode: en-gb
 title: GLAM Data Science Network
 copyright: >
-  [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Except where noted, all content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+   Except where noted, all content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) ·
+   Project supported by a [Software Sustainability Institute Fellowship](https://software.ac.uk/programmes-and-events/fellowship-programme) ·
+   Web hosting provided free by [Netlify](https://netlify.com)
 
 theme: PaperMod
 params:

@@ -16,3 +16,5 @@ Sound interesting? **You're one of us too!**
 
 - [Ways to get involved](/get-involved/)
 - [More information about the project](/project/)
+
+*Project supported by a [Software Sustainability Institute Fellowship](https://software.ac.uk/programmes-and-events/fellowship-programme). Web hosting provided free by [Netlify](https://netlify.com).*
