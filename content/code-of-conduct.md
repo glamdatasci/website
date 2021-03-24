@@ -7,12 +7,13 @@ menu:
 
 _**NB.** This document is currently in a Draft state, pending discussion and
 approval by the wider community once it's up and running. Please provide any
-feedback on the [Code of Conduct GitHub issue][GH issue], or by email to Jez
-Cope (j DOT cope AT erambler DOT co DOT uk)._
+feedback on the [Code of Conduct GitHub issue][GH issue], or by email to us at
+[team@glamdatasci.network][]._
 
 [GH issue]: https://github.com/glamdatasci/website/issues/3
 
-As a community we welcome everyone, and encourage a friendly and positive environment.
+As a community we welcome everyone, and encourage a friendly and positive
+environment.
 
 This code of conduct outlines our expectations for participants within the
 community, as well as steps to reporting unacceptable behaviour. We are
@@ -84,9 +85,8 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behaviour, or have any other concerns,
-please report it by contacting the organisers, or one of the individuals listed
-below.
-_**TODO:** Set up shared organisers email address_
+please report it by contacting [team@glamdatasci.network][], or one of the
+individuals listed below.
 
 To report an issue involving one of the organisers, please email a different
 organiser individually:
@@ -121,5 +121,6 @@ purpose of protecting victims of abuse.
 This code of conduct is based on the [Open Life Science Code of Conduct][],
 which is based in turn on the [Open Code of Conduct from the TODOGroup][].
 
+[team@glamdatasci.network]: mailto:team@glamdatasci.network
 [Open Life Science Code of Conduct]: https://openlifesci.org/code-of-conduct
 [Open Code of Conduct from the TODOGroup]: https://todogroup.github.io/opencodeofconduct/
