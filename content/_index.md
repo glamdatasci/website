@@ -14,7 +14,7 @@ Sound interesting? **You're one of us too!**
 [new issue]: https://github.com/glamdatasci/website/issues/new/choose "GitHub new issue form"
 [GitHub page]: https://github.com/glamdatasci/website/ "Community GitHub repository"
 
-- [Join the mailing list](https://tinyletter.com/glam-datasci)
+- [Join the mailing list](https://tinyletter.com/glamdatasci)
 - [More ways to get involved](/get-involved/)
 - [More information about the project](/project/)
 

@@ -13,7 +13,7 @@ These two personas are an initial draft to get the ball rolling and suggest the 
 
 If this sounds interesting to you, please get in touch! You can join our [chat room on gitter.im](https://gitter.im/glam-datasci/community), comment on [this GitHub issue ("Network member personas")](https://github.com/glamdatasci/website/issues/4), or reach me on [Twitter (@jezcope)](https://twitter.com/jezcope), [Mastodon (@petrichor@scholar.social)](https://scholar.social/@petrichor) or [Matrix (@jez:petrichor.me)](https://matrix.to/#/@jez:petrichor.me).
 
-You can also now [sign up for our mailing list](https://tinyletter.com/glam-datasci) to get the latest news as the community gets up and running!
+You can also now [sign up for our mailing list](https://tinyletter.com/glamdatasci) to get the latest news as the community gets up and running!
 
 - - - - -
 

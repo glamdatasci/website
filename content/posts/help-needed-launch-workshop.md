@@ -29,5 +29,5 @@ If this community is something you'd like to see happen and you're willing to of
 [email team@glamdatasci.network]: mailto:team@glamdatasci.network
 [gitter.im]: https://gitter.im/glam-datasci/community
 [Matrix]: https://matrix.to/#/#glam-datasci_community:gitter.im "join the chat room via Matrix"
-[list]: https://tinyletter.com/glam-datasci
+[list]: https://tinyletter.com/glamdatasci
 [#GLAMDataSci hashtag]: https://twitter.com/search?q=%23GLAMDataSci&f=live
