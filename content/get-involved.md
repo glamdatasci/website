@@ -13,6 +13,7 @@ So you want see this network succeed, but you're not sure where to start? Here a
 - Introduce yourself in our [chat room on gitter.im](https://gitter.im/glam-datasci/community)
 - Explore the site a bit, then
   [take a look at this GitHub issue and provide some feedback based on the prompts there](https://github.com/glamdatasci/website/issues/2)
+- [Look at other current outstanding tasks on GitHub](https://github.com/glamdatasci/website/projects/1) to see what help is needed
 - Have any other suggestions?
   [Start a new discussion on GitHub](https://github.com/glamdatasci/website/issues/new/choose)
 - **Advanced** Fork the [GitHub repository](https://github.com/glamdatasci/website/)
