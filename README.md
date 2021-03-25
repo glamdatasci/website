@@ -1,5 +1,6 @@
 [![Gitter](https://badges.gitter.im/glam-datasci/community.svg)](https://gitter.im/glam-datasci/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f952f1b7-2cbf-4c2a-bd7d-e8915906d6a0/deploy-status)](https://app.netlify.com/sites/glam-datasci/deploys)
+[![Netlify](https://img.shields.io/netlify/f952f1b7-2cbf-4c2a-bd7d-e8915906d6a0)](https://app.netlify.com/sites/glam-datasci/deploys)
+[![GitHub issues](https://img.shields.io/github/issues-raw/glamdatasci/website)](https://github.com/glamdatasci/website/issues)
 
 This repository hosts the main website of the GLAM (Galleries, Libraries, Archives, Museums) Data Science Network, which can be found at <https://glamdatasci.network/>.
 
