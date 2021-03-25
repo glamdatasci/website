@@ -19,3 +19,5 @@ Sound interesting? **You're one of us too!**
 - [More information about the project](/project/)
 
 *Project supported by a [Software Sustainability Institute Fellowship](https://software.ac.uk/programmes-and-events/fellowship-programme). Web hosting provided free by [Netlify](https://netlify.com).*
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f952f1b7-2cbf-4c2a-bd7d-e8915906d6a0/deploy-status)](https://app.netlify.com/sites/glam-datasci/deploys)
