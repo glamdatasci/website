@@ -12,7 +12,7 @@ menu:
 
 ## Planning documents
 
-[Draft Open Canvas for the project](/posts/open-canvas-1)
+[Draft Open Canvas for the project]({{< ref "open-canvas-1.md" >}})
 : This is a one-page overview of the project, based on the [Open Canvas template][] from [Mozilla's Open Leadership Training Series][].
 
 [Open Canvas template]: https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/
