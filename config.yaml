@@ -17,6 +17,8 @@ params:
     - name: rss
       url: "index.xml"
 
+enableEmoji: true
+
 menu:
   main:
     - name: GitHub
