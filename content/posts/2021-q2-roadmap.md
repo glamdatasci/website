@@ -4,7 +4,6 @@ slug: roadmap-2021-q2
 date: 2021-03-26T16:10:57+00:00
 author: Jez Cope
 showTOC: true
-weight: 1
 ---
 
 The big thing that's been missing from this site so far is an overview of what I'd like the next few months to look like, so this post is an attempt to fix that! Right now we're in the "Launch" phase below, but after that it will be time to plough ahead, run some events and really start to figure out how to make this work for everyone.
