@@ -7,10 +7,7 @@ menu:
 
 _**NB.** This document is currently in a Draft state, pending discussion and
 approval by the wider community once it's up and running. Please provide any
-feedback on the [Code of Conduct GitHub issue][GH issue], or by email to us at
-[team@glamdatasci.network][]._
-
-[GH issue]: https://github.com/glamdatasci/website/issues/3
+feedback by email to us at [conduct@glamdatasci.network][]._
 
 As a community we welcome everyone, and encourage a friendly and positive
 environment.
@@ -85,14 +82,17 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behaviour, or have any other concerns,
-please report it by contacting [team@glamdatasci.network][], or one of the
+please report it by contacting [conduct@glamdatasci.network][], or one of the
 individuals listed below.
 
 To report an issue involving one of the organisers, please email a different
 organiser individually:
 
-- Jez Cope (j DOT cope AT erambler DOT co DOT uk)
-- Rachael Ainsworth (r DOT ainsworth AT software DOT ac DOT uk)
+- Jez Cope: _j DOT cope AT erambler DOT co DOT uk_
+- Bev Jones: _b DOT m DOT jones AT sheffield DOT ac DOT uk_
+- Leontien Tallboom: _leontien DOT talboom DOT 18 AT ucl DOT ac DOT uk_
+- Ilkay Holt: _ilkay DOT holt AT bl DOT uk_
+- Rachael Ainsworth: _r DOT ainsworth AT software DOT ac DOT uk_
   - _Many thanks to Rachael for agreeing to act as an independent external
     arbitrator until the network is up and running_
 
@@ -121,6 +121,6 @@ purpose of protecting victims of abuse.
 This code of conduct is based on the [Open Life Science Code of Conduct][],
 which is based in turn on the [Open Code of Conduct from the TODOGroup][].
 
-[team@glamdatasci.network]: mailto:team@glamdatasci.network
+[conduct@glamdatasci.network]: mailto:conduct@glamdatasci.network
 [Open Life Science Code of Conduct]: https://openlifesci.org/code-of-conduct
 [Open Code of Conduct from the TODOGroup]: https://todogroup.github.io/opencodeofconduct/
