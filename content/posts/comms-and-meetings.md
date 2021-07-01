@@ -1,7 +1,7 @@
 ---
 title: "Network update: keeping in touch and future meetings"
 slug: comms-and-meetings
-date: 2021-06-30T16:44:54+01:00
+date: 2021-07-01T21:04:54+01:00
 author: Jez Cope
 tags:
 - Meetings
