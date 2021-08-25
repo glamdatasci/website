@@ -8,11 +8,11 @@ menu:
 
 So you want see this network succeed, but you're not sure where to start? Here are some ways that you can contribute right away...
 
-- [**:star: :rocket: Volunteer to help plan and run a launch workshop :rocket: :star:**]({{< ref "/posts/help-needed-launch-workshop.md" >}} "Help needed: preparing to launch!")
-- [Join the mailing list to get news on developments as they happen!](https://tinyletter.com/glamdatasci)
-- Introduce yourself in our [chat room on gitter.im](https://gitter.im/glam-datasci/community)
-- Explore the site a bit, then
-  [take a look at this GitHub issue and provide some feedback based on the prompts there](https://github.com/glamdatasci/website/issues/2)
+- [Join the announcements list to get news on regular meetings, events, and other developments as they happen!](https://tinyletter.com/glamdatasci)
+- [Join the email discussion list][discussion list]
+- Join the chat space:
+    - [via Element/Matrix][lobby]
+    - [via Slack][]
 - [Look at other current outstanding tasks on GitHub](https://github.com/glamdatasci/website/projects/1) to see what help is needed
 - Have any other suggestions?
   [Start a new discussion on GitHub](https://github.com/glamdatasci/website/issues/new/choose)
@@ -22,3 +22,7 @@ So you want see this network succeed, but you're not sure where to start? Here a
 
 *Thanks!*  
  *— Jez*
+
+[discussion list]: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=GLAMDATASCI
+[lobby]: https://matrix.to/#/#glamdatasci-lobby:petrichor.me
+[via Slack]: https://join.slack.com/t/glamdatascien-0e43216/shared_invite/zt-sgorvmv5-x1zTPP_iscYWT0tGBOVVqg
