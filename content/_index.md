@@ -14,9 +14,11 @@ Sound interesting? **You're one of us too!**
 [new issue]: https://github.com/glamdatasci/website/issues/new/choose "GitHub new issue form"
 [GitHub page]: https://github.com/glamdatasci/website/ "Community GitHub repository"
 
-- [Join the mailing list](https://tinyletter.com/glamdatasci)
+- [Join the mailing list][discussion list] for news on regular meetings, events, and other developments as they happen!
 - [More ways to get involved](/get-involved/)
 - [More information about the project](/project/)
+
+[discussion list]: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=GLAMDATASCI
 
 *Project supported by a [Software Sustainability Institute Fellowship](https://software.ac.uk/programmes-and-events/fellowship-programme). Web hosting provided free by [Netlify](https://netlify.com).*
 
