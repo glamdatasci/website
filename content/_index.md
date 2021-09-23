@@ -18,7 +18,7 @@ Sound interesting? **You're one of us too!**
 - [More ways to get involved](/get-involved/)
 - [More information about the project](/project/)
 
-[discussion list]: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=GLAMDATASCI
+[discussion list]: https://www.jiscmail.ac.uk/GLAMDATASCI
 
 *Project supported by a [Software Sustainability Institute Fellowship](https://software.ac.uk/programmes-and-events/fellowship-programme). Web hosting provided free by [Netlify](https://netlify.com).*
 

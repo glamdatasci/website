@@ -22,7 +22,7 @@ So you want see this network succeed, but you're not sure where to start? Here a
 *Thanks!*  
  *— Jez*
 
-[discussion list]: https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=GLAMDATASCI
+[discussion list]: https://www.jiscmail.ac.uk/GLAMDATASCI
 [listserv@jiscmail.ac.uk]: mailto:listserv@jiscmail.ac.uk
 [lobby]: https://matrix.to/#/#glamdatasci-lobby:petrichor.me
 [via Slack]: https://join.slack.com/t/glamdatascien-0e43216/shared_invite/zt-sgorvmv5-x1zTPP_iscYWT0tGBOVVqg
